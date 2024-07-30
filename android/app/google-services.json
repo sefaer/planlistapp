@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061340510225",
+    "project_id": "planlistapp",
+    "storage_bucket": "planlistapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061340510225:android:66f3d2f9dd1d9a415299b0",
+        "android_client_info": {
+          "package_name": "com.example.planlistapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBohvgaUl6L4uOgH00zTPJ9gajFT5kH06Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
